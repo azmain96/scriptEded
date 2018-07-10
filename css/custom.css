@@ -1,0 +1,12 @@
+
+.container ul{
+    text-transform:  uppercase;
+}
+ul li{
+    display:  inline;
+    padding: 15px;
+    text-align:  center; 
+}
+ul li a{
+    text-decoration:  none;
+}
